@@ -1,2 +1,2 @@
-# cosmos-proposal-tools
+# Cosmos Proposal Tools
 Various tools to work with onchain proposals
